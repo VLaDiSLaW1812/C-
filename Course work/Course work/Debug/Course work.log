@@ -1,0 +1,72 @@
+﻿Построение начато 15.11.2018 16:12:49.
+     1>Проект "C:\Users\Влад\Desktop\Програмирование (1-Курс)\Course work\Course work\Course work.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Course work.unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Course work.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Course work.cpp"
+         Course work.cpp
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(116): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(132): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(134): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(136): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(140): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325): см. объявление "sscanf"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(142): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(153): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(158): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253): см. объявление "fscanf"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(169): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(175): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253): см. объявление "fscanf"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(180): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(197): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(209): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253): см. объявление "fscanf"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(215): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(248): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234): см. объявление "fopen"
+     1>c:\users\влад\desktop\програмирование (1-курс)\course work\course work\course work.cpp(253): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304): см. объявление "scanf"
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Course work.exe.embed.manifest.res" "Debug\Course work_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Влад\Desktop\Програмирование (1-Курс)\Course work\Debug\Course work.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Course work.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Влад\Desktop\Програмирование (1-Курс)\Course work\Debug\Course work.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Влад\Desktop\Програмирование (1-Курс)\Course work\Debug\Course work.lib" /MACHINE:X86 "Debug\Course work.exe.embed.manifest.res"
+         "Debug\Course work.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Course work.exe.embed.manifest" /manifest "Debug\Course work.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Course work.exe.embed.manifest.res" "Debug\Course work_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Влад\Desktop\Програмирование (1-Курс)\Course work\Debug\Course work.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Course work.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Влад\Desktop\Програмирование (1-Курс)\Course work\Debug\Course work.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Влад\Desktop\Програмирование (1-Курс)\Course work\Debug\Course work.lib" /MACHINE:X86 "Debug\Course work.exe.embed.manifest.res"
+         "Debug\Course work.obj"
+         Debug\stdafx.obj
+         Course work.vcxproj -> C:\Users\Влад\Desktop\Програмирование (1-Курс)\Course work\Debug\Course work.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Course work.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Course work.lastbuildstate".
+     1>Построение проекта "C:\Users\Влад\Desktop\Програмирование (1-Курс)\Course work\Course work\Course work.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.67
